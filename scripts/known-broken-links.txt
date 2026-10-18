@@ -1,0 +1,3 @@
+# Nothing was broken when the site came off Netlify (October 2026).
+# scripts/check-links.py reports anything listed here as a count, and fails on
+# anything else.
